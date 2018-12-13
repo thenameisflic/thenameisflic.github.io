@@ -11,5 +11,5 @@ lang-pt_br:
   - "31"
 ---
 
-My name is Feliciano Santana, a computer science undergrad. I do awesome stuff at my own software studio, <a href="http://bloomestudio.com">Bloom.</a>
+My name is Feliciano Santana, a software developer. I do awesome stuff at my own software studio Bloom Games.
 I&#8217;m also a start-up visionary, Node.js evangelist, Unity lover and general compulsive achiever.
