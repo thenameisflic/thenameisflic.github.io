@@ -11,7 +11,7 @@ At certain points in life, what you choose to focus on exerts significant levera
 
 Before we begin our review, we need to understand one thing: this book is over 15 years old now. This means that a lot of the things that we nowadays take for granted in terms of productivity techniques were still being developed and popularized, and this book certainly had its part in this process due to its 1.6 million+ copies sold.
 
-The book opens by claiming that Mark Twain once said that if the first the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction of knowing that that is probably the worst thing that is going to happen to you all day long ([Quote Investigator](https://quoteinvestigator.com/2013/04/03/eat-frog/) disagrees on that, though). The book then builds on this idea by putting ahead several techniques that can make it easier to swallow this frog.
+The book opens by claiming that Mark Twain once said that if the first thing you do each morning is to eat a live frog, you can go through the day with the satisfaction of knowing that is probably the worst thing that is going to happen to you all day long ([Quote Investigator](https://quoteinvestigator.com/2013/04/03/eat-frog/) disagrees on that, though). The book then builds on this idea by putting ahead several techniques that can make it easier to swallow this frog.
 
 These are the 21 tips the book details in each chapter:
 
@@ -54,6 +54,9 @@ My only major criticism about this book is that it would benefit greatly from a 
 4. **Consider the Consequences**: Your most important tasks have the most serious consequences, and you need to focus on these above everything else.
 5. **Practice Creative Procrastination**: Procrastinate on tasks of low value.
 6. **Use the ABCDE method**: Take some time to organize all of your tasks by value and priority.
+
+> The ABCDE Method is a powerful priority setting technique that you can use every single day. Here’s how it works: You start with a list of everything you have to do for the coming day. Think on paper. You then place an A , B , C , D , or E next to each item on your list before you begin the first task. An “A” item is defined as something that is very important, something that you must do. This is a task that will have serious positive or negative consequences if you do it or fail to do it, like visiting a key customer or finishing a report that your boss needs for an upcoming board meeting. If you have more than one A task, you prioritize these tasks by writing “A-1,” “A-2,” “A-3,” and so on in front of each item.
+
 7. **Focus on key results areas**: Focus on results that you must have to perform well and work on them all day long.
 8. **Apply the law of three**: Identify three things you do in your work that account for the majority of your contribution, and get them done before anything else.
 
