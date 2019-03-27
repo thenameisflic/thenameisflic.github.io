@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name: "Feliciano Santana"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar:"/assets/images/avatar.jpg"
   bio: "A humble coder at your service."
   location: "Teresina, PI"
   ? email
