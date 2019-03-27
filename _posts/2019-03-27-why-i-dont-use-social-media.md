@@ -5,7 +5,7 @@ title: "[EN/PT-BR] Why i don't use social media / Porque eu não uso redes socia
 
 [EN] This article is available in multiple languages. [Go to the English version.](#english)
 
-[PT-BR] Esse artigo está disponível em múltiplos idiomas. [Vá para a versão em Português.](#portuguese)
+[PT-BR] Esse artigo está disponível em múltiplos idiomas. [Vá para a versão em Português.](#português)
 
 ---
 # English
