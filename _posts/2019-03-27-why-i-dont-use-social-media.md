@@ -29,7 +29,7 @@ I don't appreciate smalltalk, and i don't enjoy limiting my interactions to "Goo
 
 If i were to use social media, the same thing would happen: i would feel like i have to like their posts, and i would feel like i have to reply to their comments. But the truth is, i would just prefer to call each one of them to have ice cream and talk about our lives without the noise of a thousand notifications coming in at once. I understand that's unfeasible, and that's okay: you don't need to be always available for everyone.
 
-### Thank you for reading! You can reach me on Telegram [@flicsl](t.me/flicsl) if you would like to chat with me anytime.
+### Thank you for reading! You can reach me on Telegram [@flicsl](https://t.me/flicsl) if you would like to chat with me anytime.
 
 ---
 
@@ -54,4 +54,4 @@ Eu não gosto de smalltalk, e eu não gosto de limitar as minhas interações a 
 
 Se eu usasse redes sociais, a mesma coisa iria acontecer: eu sentiria que eu preciso responder a cada comentário e dar um like em cada postagem que meus amigos fizessem. Mas a verdade é que eu preferiria mil vezes chamá-los para tomar um sorvete e conversar sobre as nossas vidas sem o ruído de dezenas de notificações acontecendo ao mesmo tempo. Eu entendo que isso nem sempre é possível, mas não tem problema: você não precisa estar disponível para todo mundo o tempo todo.
 
-### Obrigado por ler! Você pode me mandar mensagem no Telegram [@flicsl](t.me/flicsl) se você quiser falar sobre qualquer coisa.
+### Obrigado por ler! Você pode me mandar mensagem no Telegram [@flicsl](https://t.me/flicsl) se você quiser falar sobre qualquer coisa.
