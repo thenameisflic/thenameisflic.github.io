@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[EN/PT-BR] Why i don't use social media / Por que eu não uso redes sociais"
+title: "[EN/PT-BR] Why i don't use social media / Porque eu não uso redes sociais"
 ---
 
 [EN] This article is available in multiple languages. [Go to the English version.](#english)
