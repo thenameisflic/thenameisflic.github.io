@@ -5,7 +5,7 @@ title: "[EN/PT-BR] Why i don't use social media / Porque eu não uso redes socia
 
 [EN] This article is available in multiple languages. [Go to the English version.](#english)
 
-[PT] Esse artigo está disponível em múltiplos idiomas. [Vá para a versão em português.](#portuguese)
+[PT-BR] Esse artigo está disponível em múltiplos idiomas. [Vá para a versão em Português.](#portuguese)
 
 ---
 # English
@@ -33,7 +33,7 @@ If i were to use social media, the same thing would happen: i would feel like i 
 
 ---
 
-# Portuguese
+# Português
 ## 1. Eu não confio nas corporações no controle delas
 
 Eu não confio nas empresas por trás do Facebook (e por extensão no Instagram ou WhatsApp) nem no Twitter ou no Google. Isso é porque os incentivos delas não estão alinhados com os meus: elas querem que eu passe o maior tempo possível nos seus sites e eles querem que eu clique nas propagandas, mas eu não quero nem preciso fazer nada disso.
@@ -54,4 +54,4 @@ Eu não gosto de smalltalk, e eu não gosto de limitar as minhas interações a 
 
 Se eu usasse redes sociais, a mesma coisa iria acontecer: eu sentiria que eu preciso responder a cada comentário e dar um like em cada postagem que meus amigos fizessem. Mas a verdade é que eu preferiria mil vezes chamá-los para tomar um sorvete e conversar sobre as nossas vidas sem o ruído de dezenas de notificações acontecendo ao mesmo tempo. Eu entendo que isso nem sempre é possível, mas não tem problema: você não precisa estar disponível para todo mundo o tempo todo.
 
-### Obrigado por ler! Você pode me mandar mensagem no Telegram (@flicsl)[t.me/flicsl] se você quiser falar sobre qualquer coisa.
+### Obrigado por ler! Você pode me mandar mensagem no Telegram [@flicsl](t.me/flicsl) se você quiser falar sobre qualquer coisa.
