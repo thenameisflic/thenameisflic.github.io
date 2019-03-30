@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Instagram minus Instagram"
+header:
+  image: https://pics.thenameisflic.com/media/images/anon/best-buddies-trying-out-pics-Z3IA4P.jpg
 ---
 
 TL;DR: I created an Instagram bot account that posts my pics from my website with all faces censored. Continue reading to know why and how.
