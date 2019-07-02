@@ -5,7 +5,7 @@ tags:
   - thing a week
 ---
 
-Thing a Week is my 4 week-long project with the main goal of pushing my product knowledge to the next level and solving some real-world challenges along the way.
+Thing a Week is my new project with the main goal of pushing my product knowledge to the next level and solving some real-world challenges along the way.
 
 Here's how it's going to work:
 
