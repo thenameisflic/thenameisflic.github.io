@@ -102,8 +102,8 @@ analytics:
 author:
   name: "Feliciano Santana"
   avatar: "/assets/images/avatar.jpg"
-  bio: "A humble coder at your service."
-  location: "Teresina, PI"
+  bio: "Desenvolvedor focado em UX/UI e construir software confiável."
+  location: "São Paulo, SP"
   ? email
   links:
     - label: "Email"
@@ -115,15 +115,15 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/thenameisflic"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/feliciano-santana-6b3bb8107/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/thenameisflic"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/thenameisflic"
 
 # Site Footer
 footer:
