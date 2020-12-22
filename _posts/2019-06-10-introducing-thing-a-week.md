@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Introducing Thing A Week"
+title: "How to do a Thing A Week"
 tags:
   - thing a week
 ---
 
-Thing a Week is my new project with the main goal of pushing my product knowledge to the next level and solving some real-world challenges along the way.
+Thing a Week is a philosophy with the main goal of pushing product knowledge to the next level and solving some real-world challenges along the way.
 
-Here's how it's going to work:
+Here's how I go about it:
 
 ### Step 1 - Identifying needs
 
@@ -43,6 +43,4 @@ Everyone deserves a happy ending, and mine will be writing about the things I le
 
 ---
 
-Yep, all of these steps will have to be completed in a week. I'm not sure I can do it, but what's the fun in doing something you know you'll succeed?
-
-See you in the next post!
+Yep, all of these steps would have to be completed in a week. It's challenging for sure, but what's the fun in doing things when you know you'll succeed?
