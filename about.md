@@ -11,5 +11,7 @@ lang-pt_br:
   - "31"
 ---
 
-My name is Feliciano Santana, a software developer. I do awesome stuff at my own software studio Bloom Games.
-I&#8217;m also a start-up visionary, Node.js evangelist, Unity lover and general compulsive achiever.
+My name is Feliciano Santana.
+This is just my personal blog, and I really like writing about whatever is on my mind.
+I like to think of myself as an entrepreneur, even though I don't really think that means very much.
+I don't post very often, but I often have several posts enqueued.

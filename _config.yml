@@ -19,7 +19,7 @@ locale: "en-US"
 title: "The Name is Flic"
 title_separator: "-"
 name: "Feliciano Santana"
-description: "A blog about coding, productivity and science."
+description: "A blog about (possibly) nothing."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,8 +102,8 @@ analytics:
 author:
   name: "Feliciano Santana"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Desenvolvedor focado em UX/UI e construir software confiável."
-  location: "São Paulo, SP"
+  bio: "Entrepreneur and lifelong learner."
+  location: "São Paulo, SP, Brazil"
   ? email
   links:
     - label: "Email"
