@@ -62,4 +62,4 @@ Com tudo isso em mente, eu te convido a refletir:
 - Quais desses atributos são mais fortes em você, e quais você precisa melhorar?
 - Você consegue analisar uma dada situação e adaptar o seu posicionamento?
 
-Me diga o que você acha no LinkedIn!
+[Me diga o que você acha no LinkedIn!](https://www.linkedin.com/feed/update/urn:li:activity:6786102562325073920/)
